@@ -1,5 +1,9 @@
 # Mammoth .docx to HTML converter
 
+This is a fork of an NPM package for converting DOCX files into HTML. I have copied it to Synap Learning because it is a specific branch containing changes made by a contributor which do not look likely to be merged into the main branch for the forseeable future. 
+
+The change is that it allows Symbols to be parsed and converted into HTML. This is important for us as the templaet one of our clients is using uses the Wingdings font to put a check mark in the file. 
+
 Mammoth is designed to convert .docx documents,
 such as those created by Microsoft Word,
 and convert them to HTML.
